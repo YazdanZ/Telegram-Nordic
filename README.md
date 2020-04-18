@@ -11,6 +11,7 @@ This theme uses the Nord color palette
 ## Install
 * From [this](https://t.me/addtheme/kde_nordic) link 
 
+
 * Downloading the theme from this repository 
   * Go to Settings > Chat > 3 dots in bar (kebab menu) > Create new theme
   * In the newly opened right menu, click on the kebab menu and select "import theme"
