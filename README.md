@@ -5,3 +5,6 @@ This repo contains a nord (https://github.com/arcticicestudio/nord) based dark t
 
 This theme was forked from Nord Theme.
 
+# Preview
+![Image description](file:///home/yazdan/Downloads/preview)
+
