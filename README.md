@@ -5,6 +5,9 @@ This repo contains a nord (https://github.com/arcticicestudio/nord) based dark t
 
 This theme was forked from Nord Theme.
 
-# Preview
+## Preview
 ![Image description](https://github.com/yaz-byte/telegram-nord-theme/blob/master/preview)
+
+##Install
+* From https://t.me/addtheme/kde_nordic - automatic! [this](https://t.me/addtheme/kde_nordic) link 
 
