@@ -13,7 +13,7 @@ This theme uses the Nord color palette
 
 
 * Downloading the theme from this repository 
-  * Go to Settings > Chat > 3 dots in bar (kebab menu) > Create new theme
+  * Go to Settings > Chat > 3 dots in bar > Create new theme
   * In the newly opened right menu, click on the kebab menu and select "import theme"
   * Select the colors.tdesktop-theme downloaded from this repository
   * Back to chat settings, under "Chat background" click on "Choose from file" and select the file "background.png" downloaded from this repository
