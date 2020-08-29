@@ -2,8 +2,7 @@
 A nord theme for telegram desktop
 
 This repo contains a nord (https://github.com/arcticicestudio/nord) based theme for Telegram Desktop.
-This theme uses the Nord color palette
-.
+This theme uses the Nord color palette.
 
 ## Preview
 ![Image description](https://github.com/yaz-byte/telegram-nord-theme/blob/master/preview)
