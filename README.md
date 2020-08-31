@@ -1,4 +1,4 @@
-# telegram-nord-theme
+# Telegram-Nordic-theme
 A nord theme for telegram desktop
 
 This repo contains a nord (https://github.com/arcticicestudio/nord) based theme for Telegram Desktop.
